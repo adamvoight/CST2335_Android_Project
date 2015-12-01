@@ -7,7 +7,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 
-public class MainActivity2 extends ActionBarActivity {
+public class CarbonFootprintCalculator extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,7 +39,7 @@ public class MainActivity2 extends ActionBarActivity {
                 go(MainActivity.class);
                 break;
             case R.id.action_two:
-                go(MainActivity2.class);
+                go(CarbonFootprintCalculator.class);
                 break;
             case R.id.action_three:
                 go(MainActivity3.class);

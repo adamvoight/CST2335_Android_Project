@@ -39,7 +39,7 @@ public class MainActivity4 extends ActionBarActivity {
                 go(MainActivity.class);
                 break;
             case R.id.action_two:
-                go(MainActivity2.class);
+                go(CarbonFootprintCalculator.class);
                 break;
             case R.id.action_three:
                 go(MainActivity3.class);
