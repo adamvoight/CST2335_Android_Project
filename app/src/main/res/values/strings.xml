@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Integration</string>
+    <string name="app_name">CST2335groupProject</string>
 
-    <string name="hello_world1">Hello One World!</string>
-    <string name="hello_world2">Hello Two World!</string>
+    <string name="ProjectName">CST2335 Group Project</string>
+    <string name="Carbon_FP_Calc">Carbon Footprint Calculator</string>
     <string name="hello_world3">Hello Three World!</string>
     <string name="hello_world4">Hello Four World!</string>
     <string name="action_settings">Settings</string>
